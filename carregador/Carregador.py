@@ -1,3 +1,6 @@
+
+# classe para um carregador de iPhone
+
 class IPhone
     ___name__='iPhone'
 
